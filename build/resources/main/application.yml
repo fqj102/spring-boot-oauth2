@@ -19,8 +19,8 @@ spring:
 custom:
   oauth2:
     kakao:
-      client-id: 88a081241234cfacbedef7018ac451316f3
-      client-secret: jpXULoEzrasfawegsqYXlRLyyOHn2i60q
+      client-id: 3e2817c19c529d4aa69a88dce2b03042
+      client-secret:
     naver:
-      client-id: B5yvH3Zaweyawerawwe6repj4z0L
-      client-secret: sArXFasdfawef
+      client-id: XDPgfeDq9it8du7VIsrA
+      client-secret: jdmI0CsVH3

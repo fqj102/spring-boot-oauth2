@@ -1,0 +1,7 @@
+/.metadata/
+.idea/
+.settings/
+bin/
+build/
+.gradle/
+out/
